@@ -1,0 +1,27 @@
+body {
+    background-color: #c0c0c0;
+    margin: 50px;
+}
+
+.wrapper {
+    border: 5px solid #5377b1;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 50%;
+}
+
+#headingOne {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Lasting-Tales-Image {
+    width: 750px;
+    position: fixed;
+    right: 50px;
+    top: 120px;
+}
